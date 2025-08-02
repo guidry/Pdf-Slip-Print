@@ -9,6 +9,6 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 
-Tested cross-compiling on Ubuntu 24.04 using setup_cross_compile.sh
-To run, make sure libstdc++-6.dll   pdfium.dll   libgcc_s_seh-1.dll  libwinpthread-1.dll  be in the same directory with generated PDFSlipPrint.exe
+Tested cross-compiling on Ubuntu 24.04 using setup_cross_compile.sh .
+To run, make sure libstdc++-6.dll   pdfium.dll   libgcc_s_seh-1.dll  libwinpthread-1.dll  be in the same directory with generated PDFSlipPrint.exe .
 
